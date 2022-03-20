@@ -22,5 +22,6 @@ decrypting C99tRo0K9GKmH9Rx7j7xWw==
 
 
 ## License
+This project is licensed under the MIT License
 
-Copyright © 2022 - Present, Danilson de Carvalho
+Copyright © Danilson de Carvalho
